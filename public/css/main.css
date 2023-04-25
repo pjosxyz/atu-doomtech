@@ -1,0 +1,18 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+
+/* CSS Variables */
+:root {
+  --dark-bg: #0a0517;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: var(--dark-bg);
+}
+
+h1 {
+  font-family: sans-serif;
+  color: orangered;
+  font-size: 100px;
+}
